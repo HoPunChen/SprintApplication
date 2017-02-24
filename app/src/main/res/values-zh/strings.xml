@@ -14,9 +14,9 @@
     <string name="text_my_location">我的位置</string>
     <string name="text_about_app">关于软件</string>
 
-
     <string name="text_index">首页</string>
     <string name="text_dictionary">字典</string>
     <string name="text_practice">专项练习</string>
     <string name="text_user_info">个人中心</string>
+
 </resources>
