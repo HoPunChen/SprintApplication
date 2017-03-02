@@ -5,11 +5,16 @@ android {
     buildToolsVersion "24.0.3"
     defaultConfig {
         applicationId "com.example.hopunchen.sprintapplication"
-        minSdkVersion 10
+        minSdkVersion 21
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        ndk {
+            // 设置支持的SO库架构
+            abiFilters 'armeabi' , 'x86'//, 'armeabi-v7a', 'x86_64', 'arm64-v8a'
+        }
+
     }
     buildTypes {
         release {
@@ -28,6 +33,12 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     //Tablayout
-    compile 'com.android.support:design:latest.release'
+    compile 'com.android.support:design:24.2.0'
     //其中latest.release指代最新Bugly SDK版本号，也可以指定明确的版本号，例如2.1.9
+    compile 'com.tencent.bugly:crashreport:latest.release'
+    //其中latest.release指代最新Bugly NDK版本号，也可以指定明确的版本号，例如3.
+    compile 'com.tencent.bugly:nativecrashreport:latest.release'
+    //3.5.0
+    compile 'cn.bmob.android:bmob-sdk:3.5.0'
+
 }
