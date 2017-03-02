@@ -18,3 +18,6 @@
 
 ##7 commit
 忘记&重置密码开发
+
+##8 commit
+登录自定义Dialog开发
