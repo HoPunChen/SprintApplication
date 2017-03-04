@@ -24,3 +24,6 @@
 
 ##9 commit
 个人中心数据处理开发
+
+##10 commit
+使用第三方开源库CircleLmageView
