@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 24
-    buildToolsVersion "24.0.3"
+    buildToolsVersion '25.0.0'
     defaultConfig {
         applicationId "com.example.hopunchen.sprintapplication"
         minSdkVersion 21
@@ -40,5 +40,6 @@ dependencies {
     compile 'com.tencent.bugly:nativecrashreport:latest.release'
     //3.5.0
     compile 'cn.bmob.android:bmob-sdk:3.5.0'
-
+    //CircleImageView
+    compile 'de.hdodenhof:circleimageview:2.1.0'
 }
