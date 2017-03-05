@@ -27,4 +27,4 @@
 
 ##10 commit
 使用第三方开源库CircleLmageView
-圆形头像选择性建材
+圆形头像选择性剪裁
