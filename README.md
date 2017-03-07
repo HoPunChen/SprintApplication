@@ -3,7 +3,7 @@
 基于Android
 
 ##1-3 commit
-添加封装类Log
+添加封装类Log 
 实现首页跳转
 
 ##4 commit
@@ -11,7 +11,8 @@
 添加bugly第三方异常反馈收集插件
 
 ##5 commit
-使用Bmob后端云 登录功能开发
+使用Bmob后端云 
+登录功能开发
 
 ##6 commit
 注册功能开发 
