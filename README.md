@@ -1,6 +1,6 @@
 # Sprint App
 # 一款专门备考英语的学习应用
-基于Android
+基于Android环境
 
 ##1-3 commit
 添加封装类Log 
