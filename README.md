@@ -2,7 +2,7 @@
 # 一款专门备考英语的学习应用
 基于Android开发环境
 
-用到的第三方地址
+可能用到的第三方地址
 http://gank.io/
 http://www.xfyun.cn/
 
