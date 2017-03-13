@@ -16,7 +16,7 @@ import com.example.hopunchen.sprintapplication.R;
  *创建时间:  2017/2/20 22:15
  *描述：    专项练习
  */
-public class PracticeFragment  extends Fragment {
+public class PracticeFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_practice, null);

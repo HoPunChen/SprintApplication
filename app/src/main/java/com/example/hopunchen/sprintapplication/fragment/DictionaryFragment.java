@@ -16,7 +16,7 @@ import com.example.hopunchen.sprintapplication.R;
  *创建时间:  2017/2/23 22:16
  *描述：    字典
  */
-public class DictionaryFragment  extends Fragment {
+public class DictionaryFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_dictionary, null);
