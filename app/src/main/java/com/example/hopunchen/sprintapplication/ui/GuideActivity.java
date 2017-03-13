@@ -17,13 +17,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 项目名：  SprintApplication
- * 包名：    com.example.hopunchen.sprintapplication.ui
- * 文件名:   GuideActivity
- * 创建者:   CHB
- * 创建时间:  2017/2/26 20:03
- * 描述：    引导页
- **/
+ *项目名：  SprintApplication
+ *包名：    com.example.hopunchen.sprintapplication.ui
+ *文件名:   GuideActivity
+ *创建者:   CHB
+ *创建时间:  2017/2/26 20:03
+ *描述：    引导页
+ */
 public class GuideActivity extends AppCompatActivity implements View.OnClickListener {
 
     private ViewPager mViewPager;
