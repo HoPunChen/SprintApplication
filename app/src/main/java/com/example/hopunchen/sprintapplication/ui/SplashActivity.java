@@ -13,12 +13,12 @@ import com.example.hopunchen.sprintapplication.utils.StaticClass;
 import com.example.hopunchen.sprintapplication.utils.UtilTools;
 
 /**
- *项目名：  SprintApplication
- *包名：    com.example.hopunchen.sprintapplication.ui
- *文件名:   SplashActivity
- *创建者:   CHB
- *创建时间:  2017/2/26 20:02
- *描述：    闪屏页
+ * 项目名：  SprintApplication
+ * 包名：    com.example.hopunchen.sprintapplication.ui
+ * 文件名:   SplashActivity
+ * 创建者:   CHB
+ * 创建时间:  2017/2/26 20:02
+ * 描述：    闪屏页
  */
 public class SplashActivity extends AppCompatActivity {
 

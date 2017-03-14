@@ -4,12 +4,12 @@ import android.content.Context;
 import android.content.SharedPreferences;
 
 /**
- *项目名：  SprintApplication
- *包名：    com.example.hopunchen.sprintapplication.utils
- *文件名:   ShareUtils
- *创建者:   CHB
- *创建时间:  2017/2/26 20:13
- *描述：    SharedPreferences封装
+ * 项目名：  SprintApplication
+ * 包名：    com.example.hopunchen.sprintapplication.utils
+ * 文件名:   ShareUtils
+ * 创建者:   CHB
+ * 创建时间:  2017/2/26 20:13
+ * 描述：    SharedPreferences封装
  */
 public class ShareUtils {
     public static final String NAME = "config";

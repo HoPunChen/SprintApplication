@@ -14,12 +14,12 @@ import cn.bmob.v3.exception.BmobException;
 import cn.bmob.v3.listener.UpdateListener;
 
 /**
- *项目名：  SprintApplication
- *包名：    com.example.hopunchen.sprintapplication.ui
- *文件名:   ForgetPasswordActivity
- *创建者:   CHB
- *创建时间:  2017/3/1 12:36
- *描述：    忘记/重置密码
+ * 项目名：  SprintApplication
+ * 包名：    com.example.hopunchen.sprintapplication.ui
+ * 文件名:   ForgetPasswordActivity
+ * 创建者:   CHB
+ * 创建时间:  2017/3/1 12:36
+ * 描述：    忘记/重置密码
  */
 public class ForgetPasswordActivity extends BaseActivity implements View.OnClickListener{
     private Button btn_forget_password;

@@ -3,12 +3,12 @@ package com.example.hopunchen.sprintapplication.utils;
 import android.util.Log;
 
 /**
- *项目名：  SprintApplication
- *包名：    com.example.hopunchen.sprintapplication.utils
- *文件名:   L
- *创建者:   CHB
- *创建时间:  2017/2/23 22:40
- *描述：    Log封装类
+ * 项目名：  SprintApplication
+ * 包名：    com.example.hopunchen.sprintapplication.utils
+ * 文件名:   L
+ * 创建者:   CHB
+ * 创建时间:  2017/2/23 22:40
+ * 描述：    Log封装类
  */
 public class L {
 

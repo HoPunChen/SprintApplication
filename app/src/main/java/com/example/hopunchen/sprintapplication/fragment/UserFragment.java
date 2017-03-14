@@ -24,12 +24,12 @@ import cn.bmob.v3.listener.UpdateListener;
 import de.hdodenhof.circleimageview.CircleImageView;
 
 /**
- *项目名：  SmartButler
- *包名：    com.example.hopunchen.sprintapplication.fragment
- *文件名:   UserFragment
- *创建者:   CHB
- *创建时间:  2017/2/20 23:09
- *描述：    个人中心
+ * 项目名：  SmartButler
+ * 包名：    com.example.hopunchen.sprintapplication.fragment
+ * 文件名:   UserFragment
+ * 创建者:   CHB
+ * 创建时间:  2017/2/20 23:09
+ * 描述：    个人中心
  */
 public class UserFragment extends Fragment implements View.OnClickListener{
 

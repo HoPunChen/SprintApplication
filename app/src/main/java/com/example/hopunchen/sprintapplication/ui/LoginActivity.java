@@ -22,12 +22,12 @@ import cn.bmob.v3.exception.BmobException;
 import cn.bmob.v3.listener.SaveListener;
 
 /**
- *项目名：  SprintApplication
- *包名：    com.example.hopunchen.sprintapplication.ui
- *文件名:   LoginActivity
- *创建者:   CHB
- *创建时间:  2017/2/27 23:10
- *描述：    登录
+ * 项目名：  SprintApplication
+ * 包名：    com.example.hopunchen.sprintapplication.ui
+ * 文件名:   LoginActivity
+ * 创建者:   CHB
+ * 创建时间:  2017/2/27 23:10
+ * 描述：    登录
  */
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener{
 

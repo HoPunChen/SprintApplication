@@ -1,12 +1,12 @@
 package com.example.hopunchen.sprintapplication.ui;
 
 /**
- *项目名：  SmartButler
- *包名：    com.example.hopunchen.sprintapplication.ui
- *文件名:   BaseActivity
- *创建者:   CHB
- *创建时间:  2017/2/20 21:55
- *描述：    Activity基类
+ * 项目名：  SmartButler
+ * 包名：    com.example.hopunchen.sprintapplication.ui
+ * 文件名:   BaseActivity
+ * 创建者:   CHB
+ * 创建时间:  2017/2/20 21:55
+ * 描述：    Activity基类
  */
 
 import android.os.Bundle;
