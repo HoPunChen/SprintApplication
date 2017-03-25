@@ -5,7 +5,8 @@
 可能用到的第三方地址
 http://gank.io/
 http://www.xfyun.cn/
-
+http://www.bmob.cn/
+http://www.json.cn/
 
 ## 1-3 commit
 添加封装类Log 
